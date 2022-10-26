@@ -4,3 +4,4 @@ For this project I implemented a Multi Client–Server application using the TCP
 
 The SQL query is a simple inner join executed on the Music database. I have 2 SQL files called music_create.sql and music_data.sql which were used to create a 'Musics' database that I connected to.
 
+To develop this project I used Java 17 on IntelliJ IDEA
